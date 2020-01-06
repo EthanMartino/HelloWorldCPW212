@@ -11,6 +11,7 @@ namespace HelloWorldCPW212
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome!");
+            Console.ReadKey();
         }
     }
 }
